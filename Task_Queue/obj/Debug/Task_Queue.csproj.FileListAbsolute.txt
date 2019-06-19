@@ -1,0 +1,9 @@
+D:\triod315\2 курс\SysProg\SysProgLabs\Lab3\Task_Queue\Task_Queue\Task_Queue\obj\Debug\Task_Queue.ProjectInstaller.resources
+D:\triod315\2 курс\SysProg\SysProgLabs\Lab3\Task_Queue\Task_Queue\Task_Queue\obj\Debug\Task_Queue.csproj.GenerateResource.cache
+D:\triod315\2 курс\SysProg\SysProgLabs\Lab3\Task_Queue\Task_Queue\Task_Queue\obj\Debug\Task_Queue.csproj.CoreCompileInputs.cache
+D:\triod315\2 курс\SysProg\SysProgLabs\Lab3\Task_Queue\Task_Queue\Task_Queue\bin\Debug\Task_Queue.exe.config
+D:\triod315\2 курс\SysProg\SysProgLabs\Lab3\Task_Queue\Task_Queue\Task_Queue\bin\Debug\Task_Queue.exe
+D:\triod315\2 курс\SysProg\SysProgLabs\Lab3\Task_Queue\Task_Queue\Task_Queue\bin\Debug\Task_Queue.pdb
+D:\triod315\2 курс\SysProg\SysProgLabs\Lab3\Task_Queue\Task_Queue\Task_Queue\obj\Debug\Task_Queue.exe
+D:\triod315\2 курс\SysProg\SysProgLabs\Lab3\Task_Queue\Task_Queue\Task_Queue\obj\Debug\Task_Queue.pdb
+D:\triod315\2 курс\SysProg\SysProgLabs\Lab3\Task_Queue\Task_Queue\Task_Queue\obj\Debug\Task_Queue.csprojAssemblyReference.cache
